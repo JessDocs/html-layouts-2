@@ -1,3 +1,47 @@
 body {
   background-color: #DDDDDD;
 }
+
+.container {
+	padding: 30px;
+	background-color: #D8D8D8; 
+}
+
+.content {
+	padding: 30px;
+}
+
+.jumbotron {
+	padding: 0;
+}
+
+.image {
+	height: 350px;
+	margin-bottom: 30px;
+}
+
+p a {
+	color: white;
+}
+
+.white {
+	background-color: #FFFFFF;
+}
+
+.red {
+	background-color: #D01D1A;
+}
+
+.blue {
+	background-color: #4991E1;
+}
+
+.gray {
+	background-color: #494949;
+}
+
+.black {
+	padding-top: 0;
+	padding-bottom: 0;
+	background-color: #323333;
+}
